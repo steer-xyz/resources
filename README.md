@@ -1,2 +1,2 @@
 # resources
-brain dump of ai engineering resources
+brain dump of everyting i'm reading + notes
